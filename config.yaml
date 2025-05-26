@@ -1,6 +1,6 @@
 139yun:
   token: 'cGM6MTkzNzEzODI4MzE6UEF5UkRDZVB8MXxSQ1N8MTc1MDg2MjA4MzQ5OHxERVZfbFM5bHZ2bDFDSlFCMXdsLnZvMW5RbjNibXNVSWlOanRIdEI0Uk1fTGdLc2dlSElZRl9fS2tvQTRVZHZJTldSeHhPSW5NNXl6UnlDZjB6ck96Yk0wdGx2XzlkRE5fQ0RYVEV5M0htTUI2cVp1bW5HWGdtcmczZGFDbVlBV0ZHRTZHY2xTem9QQjl1bEdueE5iLmg0a2hnQlJDcnQ1dThfTnhRYUEyU00t' #移动云盘Authorization 可参考Alist文档进行抓包
-  phone: '19371382831' #手机号 用于获取ssoToken
+  phone: '' #手机号 用于获取ssoToken
   upload_dirid: 'FmaASqC5Ws0EnoW6-DppMv44kE2AG1qBB' #上传文件时文件夹id
   AccountType: 1 #账号类型 1=新个人云 0=个人云 可参考Alist文档进行判断
 share:
